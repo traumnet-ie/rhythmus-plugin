@@ -8,4 +8,4 @@ The aim of this project is to build a plugin which has:
 	2. Randomised sample segregation
 	3. Serendipitous outcomes
 
-It will be build with Juce.
+It will be built with Juce.
